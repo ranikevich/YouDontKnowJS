@@ -23,13 +23,3 @@ chapter[52].before(chapter[48]);
 chapter[54].before(chapter[51]);
 
 chapter[25].insertAdjacentHTML('afterend', '<li>Глава 8: За пределами ES6</li>');
-
-
-
-console.log(chapter);
-
-
-
-
-
-
